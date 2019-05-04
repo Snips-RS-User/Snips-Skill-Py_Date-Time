@@ -1,5 +1,7 @@
 # Description
 
+WARNING : DEVELOPMENT IN PROGRESS !!
+
 Skill for Snips : to announce the "date" or the "time" on demand.
 Development environment : Python v3.5.
 
