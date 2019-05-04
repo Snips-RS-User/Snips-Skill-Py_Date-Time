@@ -1,12 +1,16 @@
 # Description
 
+WARNING : DEVELOPMENT IN PROGRESS !!
+
 Skill for Snips : to announce the "date" or the "time" on demand.
 Development environment : Python v3.5.
+
 
 # Generated Snips skill
 
 This is a generated Python 3 snips app, using the `snips-template` tool.
 It is compatible with the format expected by the `snips-skill-server`
+
 
 ## Setup
 
@@ -14,6 +18,7 @@ This app requires some python dependencies to work properly, these are
 listed in the `requirements.txt`. You can use the `setup.sh` script to
 create a python virtualenv that will be recognized by the skill server
 and install them in it.
+
 
 ## Executables
 
